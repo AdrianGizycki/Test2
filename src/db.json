@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "english": "hello",
+      "polish": "cześć"
+    },
+    {
+      "id": 2,
+      "english": "dog",
+      "polish": "pies"
+    },
+    {
+      "id": 3,
+      "english": "cat",
+      "polish": "kot"
+    }
+  ]
+}
